@@ -1,2 +1,2 @@
 # NEWS
-Module_6
+DELETE REPOSITORY
